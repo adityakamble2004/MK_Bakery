@@ -1,0 +1,5 @@
+INSERT INTO products (name, category, price, stock_quantity, description, image_url)
+VALUES 
+('Chocolate Cake', 'Cakes', 15.99, 10, 'Delicious chocolate cake', 'images/chocolate_cake.jpg'),
+('Croissant', 'Breads', 4.99, 20, 'Buttery and flaky croissant', 'images/croissant.jpg'),
+('Strawberry Muffin', 'Pastries', 3.49, 15, 'Soft muffin with strawberry flavor', 'images/muffin.jpg');
